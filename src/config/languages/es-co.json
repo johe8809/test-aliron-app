@@ -1,0 +1,13 @@
+{
+  "common": {
+    "email": "E-mail",
+    "password": "Contraseña",
+    "signin": "Registrarse"
+  },
+  "signup": {
+    "nickname": "Nombre de usuario, nickname o pseudónimo",
+    "confirmPassword": "Confirmar contraseña",
+    "errorSignup": "Ocurrio un error, por favor intentalo mas tarde",
+    "emailAlreadyInUse": "El E-mail ya se encuentra en uso"
+  }
+}
